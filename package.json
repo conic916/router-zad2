@@ -1,14 +1,14 @@
 {
-  "name": "react-router-maps",
+  "name": "app-country",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^2.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-redux": "^7.0.3",
-    "react-router": "^5.0.0",
-    "react-scripts": "3.0.1",
+    "bootstrap": "^3.4.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "react-router": "^3.0.5",
+    "react-scripts": "2.1.3",
     "redux": "^4.0.1"
   },
   "scripts": {

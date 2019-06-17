@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/css/bootstrap-theme.css';
+//import 'bootstrap/dist/css/bootstrap.css';
+//import 'bootstrap/dist/css/bootstrap-theme.css';
 // routing // zdefiniowanie sciezek i podpiecie komponentow...
 //boostrap
 // 4 komponenty link
